@@ -49,7 +49,7 @@ No exemplo acima, estão em cores diferentes para indicar que se deve usar **Can
 
 Nessa imagem, é possível observar que o wi-fi Matriz está disputando com todas essas redes no canal 48 enquanto tem vários canais livres, se fazer essa especificação o sinal parará de ser disputado.
 
-- ## MinRSSI para Otimizar o **Roaming**
+- ### MinRSSI para Otimizar o **Roaming**
 Quando se tem uma célula sendo propagada a partir de um AP, ele vai abranger uma área de cobertura onde o sinal será propagado até um limite pre disposto, por isso é comum dispositivos receberem sinais abaixo de **-75dbm** que são sinais muito fracos. 
 
 ![image](https://github.com/user-attachments/assets/a6f6b1d4-71ae-4f90-a42a-48ff91ac2961)
