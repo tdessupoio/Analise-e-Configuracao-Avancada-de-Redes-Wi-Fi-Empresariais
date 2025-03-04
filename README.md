@@ -64,11 +64,19 @@ Portanto não há como fazer os cálculos de range do sinal sem as plantas, para
 
 ### Trabalhos citados
 [Curso Grátis Ubiquiti Unifi](https://youtube.com/playlist?list=PLozhsZB1lLUO293mVoY_aqOpMKmTPRQ02&feature=shared)
+
 [UniFi - Tutoriais](https://youtube.com/playlist?list=PLA1dWf7UkJ8rGmdNWTH6LV8Rxwjow1ah-&feature=shared)
+
 [Master Class: O que é MESH no Wi-Fi?](https://youtu.be/VxI-pdhMG5Q?feature=shared)
+
 [Conhecendo em Detalhes os APs UniFi: Qual o UAP Ideal em Cada Tipo de Aplicação?](https://medium.com/ubntbr/conhecendo-em-detalhes-os-aps-unifi-qual-o-uap-ideal-em-cada-tipo-de-aplica%C3%A7%C3%A3o-ff0d82da74a0)
+
 [Which WiFi Setup DO YOU NEED? Router vs Access Point vs Mesh - WiFi 6E?](https://youtu.be/7_wftlWheac?feature=shared)
+
 [Minimum RSSI: Como Definir a Qualidade do Sinal dos Clientes e Otimizar o Roaming na Rede Wi-Fi?](https://medium.com/ubntbr/minimum-rssi-como-definir-a-qualidade-do-sinal-dos-clientes-e-otimizar-o-roaming-na-rede-wifi-8d590f2ab09)
+
 [Entenda porque mudar o canal do seu WIFI](https://youtu.be/DPl_R68tBDI?feature=shared)
+
 [5 Funções Que Toda Rede Corporativa Deve Ter](https://youtu.be/G-_8TsbK27w?feature=shared)
+
 [Wireless Uplink: Como Montar Uma Rede Wi-Fi Mesh em Locais de Difícil Passagem de Cabos](https://medium.com/ubntbr/wireless-uplink-como-montar-uma-rede-wifi-mesh-em-locais-de-dif%C3%ADcil-passagem-de-cabos-8d8beb2ef589)
